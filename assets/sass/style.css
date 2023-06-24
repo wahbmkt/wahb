@@ -12,6 +12,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Harmattan:wght@100;300;400;500;700;900&family=Shadows+Into+Light&family=Yantramanav:wght@100;300;400;500;700;900&display=swap");
 :root {
   --clr-heading: #232323;
+  --clr-heading2: var(--clr-bg);
   --clr-body: #666;
   --clr-bg: #eaf2f6;
   --clr-bg-2: #c8d7e9;
