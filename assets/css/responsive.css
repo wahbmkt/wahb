@@ -9,7 +9,9 @@
 	.why-area-2{
 		display: none;
 	}
-	
+	.addr-box {
+		padding-right: 19rem !important;
+	}
 
 	.hero-single {
 		height: auto;
@@ -77,6 +79,9 @@
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
 	.why-area-2{
 		display: none;
+	}
+	.addr-box {
+		padding-right: 19rem !important;
 	}
 	
 	.navbar .dropdown-menu.fade-up {
@@ -181,6 +186,9 @@
 @media only screen and (min-width: 991px) and (max-width: 1200px){
 	.why-area-2{
 		display: none;
+	}
+	.addr-box {
+		padding-right: 19rem !important;
 	}
 	.site-heading {
 		font-size: 30px;
@@ -1711,9 +1719,6 @@
 		display: none;
 	}
 	
-}
-.img2{
-	display: none;
 }
 .addr-box {
 	padding-right: 6rem;
