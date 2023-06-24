@@ -6,6 +6,9 @@
 	
 
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
+	.why-area-2{
+		display: none;
+	}
 	
 
 	.hero-single {
@@ -72,6 +75,9 @@
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
+	.why-area-2{
+		display: none;
+	}
 	
 	.navbar .dropdown-menu.fade-up {
 		left: -110px;
@@ -173,10 +179,19 @@
 }
 
 @media only screen and (min-width: 991px) and (max-width: 1200px){
-	
+	.why-area-2{
+		display: none;
+	}
 	.site-heading {
 		font-size: 30px;
 		line-height: 42px;
+	}
+	.contact-up-title.mb-40{
+		margin-bottom: 4rem;
+	}
+	.addr-box {
+		padding-right: 10rem !important;
+		line-height: 1rem;
 	}
 	
 	/*	Navbar*/
@@ -460,7 +475,15 @@
 
 /* Tablet Layout: 768px.*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	
+	.why-area-2{
+		display: none;
+	}
+	.contact-up-title.mb-40{
+		margin-bottom: 12rem;
+	}
+	.addr-box {
+		padding-right: 19rem !important;
+	}
 	.blog-area.pos-rel.sd-mt-100 {
 		margin-top: 120px;
 	}
